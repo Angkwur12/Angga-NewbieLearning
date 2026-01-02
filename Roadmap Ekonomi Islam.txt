@@ -6,4 +6,5 @@ Ekonomi Islam
 - Praktikal Ilmu
   * Eksperimen
   * Survey
+- Presentasi
 - Penutup
