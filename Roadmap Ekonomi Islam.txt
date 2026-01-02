@@ -2,5 +2,9 @@ Ekonomi Islam
 - Pengantar
 - Teori Dasar
 - Pembagian Ilmu
+  *Ilmu Islam
+  *Ilmu Modern
 - Praktikal Ilmu
+  * Survey
+  * Kajian
 - Penutup
