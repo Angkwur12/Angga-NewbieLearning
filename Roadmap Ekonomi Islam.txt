@@ -7,4 +7,5 @@ Ekonomi Islam
 - Praktikal Ilmu
   * Survey
   * Kajian
+- Pemaparan
 - Penutup
