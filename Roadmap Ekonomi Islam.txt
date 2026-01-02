@@ -4,8 +4,11 @@ Ekonomi Islam
 - Pembagian Ilmu
   *Ilmu Islam
   *Ilmu Modern
+    * Ekonomi Mikro
+    * Ekonomi Makro
 - Praktikal Ilmu
   * Survey
   * Kajian
-- Pemaparan
+  * Eksperimen
+- Presentasi
 - Penutup
